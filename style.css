@@ -99,7 +99,7 @@ p:not(.exception-paragraph) {
   bottom: 160px;
 }
 
-.carousel-control-prev-icon-user-changes {
+/* .carousel-control-prev-icon-user-changes {
   position: relative;
   left: 750px;
   bottom: -125px;
@@ -111,7 +111,7 @@ p:not(.exception-paragraph) {
   left: -750px;
   bottom: -125px;
   z-index: 10;
-}
+} */
 
 .awesome_news-right-main-header {
   padding-top: 20px;
